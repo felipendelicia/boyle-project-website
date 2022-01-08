@@ -9,7 +9,6 @@ The objective of the boyle project arises from our interest in including **techn
  - We present an **arduino device** that measures different atmospheric variables.
 
 - We also present a **discord bot** which solves different questions in the area of ​​exact (chemistry, physics, mathematics, etc.).
-- 
 ## Available scripts
 In the project directory, you can run:
 
