@@ -1,16 +1,21 @@
 ﻿# Boyle: presentation website
-Website programmed to present the **BOYLE** project at the science and technology fair of the zonal instance.
+ 
+Pagina desarrollada para mostrar el proyecto **BOYLE** en la feria de ciencia y tecnologia de Buenos Aires en la instancia zonal y nacional.
 
-## Our objectives
-The objective of the boyle project arises from our interest in including **technological and innovative tools** for Argentine technical education.
+## Objetivo del proyecto
 
-## Our solutions
+El objetivo del proyecto boyle surge de nuestro interés por incluir **herramientas tecnológicas e innovadoras** para la educación técnica en Argentina.
 
- - We present an **arduino device** that measures different atmospheric variables.
+## Las soluciones que proponemos
 
-- We also present a **discord bot** which solves different questions in the area of ​​exact (chemistry, physics, mathematics, etc.).
-## Available scripts
-In the project directory, you can run:
+ - Presentamos un **dispositivo arduino** que mide diferentes variables atmosféricas para poder ser utilizado en el laboratorioa de quimica. 
+
+ - También presentamos un **BOT de discord** que resuelve diferentes problemas comunes dentro del área de las ciencias exactas (química, física, matemáticas, etc.).
+ 
+## Scripts disponibles
+
+En el directorio del proyecto podemos correr:
 
     index.html
+    
 to run the web locally.
